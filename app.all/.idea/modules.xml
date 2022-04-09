@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app.all/app.all.iml" filepath="$PROJECT_DIR$/app.all/app.all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.all/application/application.iml" filepath="$PROJECT_DIR$/app.all/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.all/shared.all/demo.shared/demo.api/demo.api.iml" filepath="$PROJECT_DIR$/app.all/shared.all/demo.shared/demo.api/demo.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.all/shared.all/demo.shared/demo.shared.iml" filepath="$PROJECT_DIR$/app.all/shared.all/demo.shared/demo.shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.all/shared.all/shared.all.iml" filepath="$PROJECT_DIR$/app.all/shared.all/shared.all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.all/shared.all/user.shared/user.api/user.api.iml" filepath="$PROJECT_DIR$/app.all/shared.all/user.shared/user.api/user.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.all/shared.all/user.shared/user.service/user.service.iml" filepath="$PROJECT_DIR$/app.all/shared.all/user.shared/user.service/user.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.all/shared.all/user.shared/user.service.impl/user.service.impl.iml" filepath="$PROJECT_DIR$/app.all/shared.all/user.shared/user.service.impl/user.service.impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.all/shared.all/user.shared/user.shared.iml" filepath="$PROJECT_DIR$/app.all/shared.all/user.shared/user.shared.iml" />
+    </modules>
+  </component>
+</project>
